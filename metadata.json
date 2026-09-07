@@ -1,0 +1,6 @@
+{
+  "name": "Ebrin Mathieu Chic",
+  "description": "Boutique et publication d'affiches de vente pour entreprises par Ebrin Mathieu Chic. Panier d'achat en FCFA, paiement en ligne sécurisé (500 à 1000 FCFA) et commande par SMS au 01047286.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
